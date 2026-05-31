@@ -1,0 +1,1539 @@
+[
+  {
+    "full_name": "lesserevil/Backlog.md",
+    "prs": [
+      {
+        "number": 668,
+        "title": "BACK-469 - Add task comments across Backlog.md",
+        "state": "open",
+        "created_at": "2026-05-31T18:22:09Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/668",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "eyes",
+            "user": "lenucksi",
+            "created_at": "2026-05-31T19:43:03Z"
+          }
+        ],
+        "first_reaction": "2026-05-31T19:43:03Z",
+        "last_reaction": "2026-05-31T19:43:03Z"
+      }
+    ]
+  },
+  {
+    "full_name": "ademczuk/Backlog.md",
+    "prs": [
+      {
+        "number": 662,
+        "title": "feat(board,browser): add --repo to view a remote repository's backlog",
+        "state": "open",
+        "created_at": "2026-05-29T09:02:22Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/662",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "rocket",
+            "user": "lenucksi",
+            "created_at": "2026-05-29T11:58:53Z"
+          }
+        ],
+        "first_reaction": "2026-05-29T11:58:53Z",
+        "last_reaction": "2026-05-29T11:58:53Z"
+      }
+    ]
+  },
+  {
+    "full_name": "alessandro-rizzo/Backlog.md",
+    "prs": [
+      {
+        "number": 661,
+        "title": "BACK-466 - Add Vim jump and half-page motions to TUI board columns",
+        "state": "open",
+        "created_at": "2026-05-27T08:45:15Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/661",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "eyes",
+            "user": "lenucksi",
+            "created_at": "2026-05-27T09:33:26Z"
+          }
+        ],
+        "first_reaction": "2026-05-27T09:33:26Z",
+        "last_reaction": "2026-05-27T09:33:26Z"
+      }
+    ]
+  },
+  {
+    "full_name": "napter/Backlog.md",
+    "prs": [
+      {
+        "number": 660,
+        "title": "feat(board): hide empty status columns when configured (BACK-466)",
+        "state": "open",
+        "created_at": "2026-05-26T03:12:46Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/660",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "HelgeSverre/Backlog.md",
+    "prs": [
+      {
+        "number": 659,
+        "title": "BACK-415 - Catalog UI component color usage",
+        "state": "closed",
+        "created_at": "2026-05-25T14:01:11Z",
+        "merged_at": null,
+        "closed_at": "2026-05-25T14:02:01Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/659",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "GregoryFerraz/Backlog.md",
+    "prs": [
+      {
+        "number": 656,
+        "title": "fix: handle EEXIST in ensureBacklogStructure for Windows OneDrive (Bun bug)",
+        "state": "open",
+        "created_at": "2026-05-21T23:52:42Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/656",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "kuwork/Backlog.md",
+    "prs": [
+      {
+        "number": 655,
+        "title": "BACK-478/479/480/419/423 - Web UI i18n support, documentation editing with path autocomplete, milestone search fix, and demote-to-draft action, Add folder grouping for docs",
+        "state": "open",
+        "created_at": "2026-05-21T16:40:31Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/655",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 650,
+        "title": "BACK-476 - Fix-inline-code-HTML-escaping-in-markdown-renderer",
+        "state": "open",
+        "created_at": "2026-05-13T16:31:07Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/650",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 648,
+        "title": "BACK-475 - Add-Word-(docx)-upload-to-enable-image-extraction-for-pasted-Word-content",
+        "state": "open",
+        "created_at": "2026-05-11T17:11:46Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/648",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 647,
+        "title": "BACK-473/474/477 - Wiki web UI with file tree navigation, wiki install command",
+        "state": "open",
+        "created_at": "2026-05-09T16:26:04Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/647",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "gussent",
+            "created_at": "2026-05-23T15:49:50Z"
+          }
+        ],
+        "first_reaction": "2026-05-23T15:49:50Z",
+        "last_reaction": "2026-05-23T15:49:50Z"
+      },
+      {
+        "number": 646,
+        "title": "BACK-208-Add-paste-as-markdown-support-in-Web-UI",
+        "state": "open",
+        "created_at": "2026-05-09T15:52:25Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/646",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 634,
+        "title": "BACK-467 - Add local file preview with syntax highlighting and line numbers",
+        "state": "open",
+        "created_at": "2026-05-07T10:00:22Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/634",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 598,
+        "title": "BACK-449 - Document task image handling and docs management in agent guidelines",
+        "state": "merged",
+        "created_at": "2026-04-20T15:15:04Z",
+        "merged_at": "2026-05-03T10:57:00Z",
+        "closed_at": "2026-05-03T10:57:00Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/598",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T10:54:25Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T10:54:25Z",
+        "last_reaction": "2026-05-03T10:54:25Z"
+      }
+    ]
+  },
+  {
+    "full_name": "lenucksi/Backlog.md",
+    "prs": [
+      {
+        "number": 654,
+        "title": "BACK-492 - Tech debt audit: findings and tool evaluation",
+        "state": "closed",
+        "created_at": "2026-05-17T20:55:21Z",
+        "merged_at": null,
+        "closed_at": "2026-05-17T20:56:26Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/654",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 651,
+        "title": "BACK-473 - handle port congestion for backlog browser",
+        "state": "open",
+        "created_at": "2026-05-13T17:53:31Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/651",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 649,
+        "title": "BACK-494 - Backlog-Guard: PreToolUse hook to enforce MCP/CLI access to backlog directories",
+        "state": "open",
+        "created_at": "2026-05-13T11:21:34Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/649",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 639,
+        "title": "BACK-472 - Refactor config to shared descriptor map, fix config list visibility",
+        "state": "open",
+        "created_at": "2026-05-07T15:37:07Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/639",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 638,
+        "title": "BACK-471 - Fix cli-commit-behaviour tests using git rev-list --count HEAD",
+        "state": "open",
+        "created_at": "2026-05-07T12:53:52Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/638",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 637,
+        "title": "BACK-468 - Add blockedStatuses config key for custom blocked-status styling",
+        "state": "open",
+        "created_at": "2026-05-07T11:51:02Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/637",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 636,
+        "title": "BACK-467/469/470 - Active-filter isTerminalStatus, config get/set CLI, missing tests",
+        "state": "closed",
+        "created_at": "2026-05-07T11:00:40Z",
+        "merged_at": null,
+        "closed_at": "2026-05-11T20:34:57Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/636",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 635,
+        "title": "BACK-466 - Core fix: isTerminalStatus in statistics, handlers, milestones",
+        "state": "open",
+        "created_at": "2026-05-07T10:31:52Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/635",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "raincrossgazette/Backlog.md",
+    "prs": [
+      {
+        "number": 645,
+        "title": "feat: add ordinal as a sortable column in the list view",
+        "state": "open",
+        "created_at": "2026-05-09T03:27:03Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/645",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "yenchihliao",
+            "created_at": "2026-05-15T00:34:29Z"
+          }
+        ],
+        "first_reaction": "2026-05-15T00:34:29Z",
+        "last_reaction": "2026-05-15T00:34:29Z"
+      },
+      {
+        "number": 644,
+        "title": "fix: sort milestones ascending by ID in browser UI",
+        "state": "open",
+        "created_at": "2026-05-09T03:14:41Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/644",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "abbyssoul/Backlog.md",
+    "prs": [
+      {
+        "number": 633,
+        "title": "Feature: Add Decision Management CLI commands and MCP Tools",
+        "state": "open",
+        "created_at": "2026-05-05T01:24:32Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/633",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "brooksc/Backlog.md",
+    "prs": [
+      {
+        "number": 632,
+        "title": "BACK-465 - Detect and warn about duplicate task IDs",
+        "state": "open",
+        "created_at": "2026-05-03T21:24:09Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/632",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 626,
+        "title": "BACK-459 - Add priority sorting to Kanban columns",
+        "state": "merged",
+        "created_at": "2026-05-02T09:49:14Z",
+        "merged_at": "2026-05-02T19:20:46Z",
+        "closed_at": "2026-05-02T19:20:47Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/626",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-02T18:34:49Z"
+          }
+        ],
+        "first_reaction": "2026-05-02T18:34:49Z",
+        "last_reaction": "2026-05-02T18:34:49Z"
+      },
+      {
+        "number": 614,
+        "title": "BACK-451 - Guard cross-branch loading behind checkActiveBranches flag",
+        "state": "merged",
+        "created_at": "2026-04-28T05:08:47Z",
+        "merged_at": "2026-04-29T17:27:49Z",
+        "closed_at": "2026-04-29T17:27:49Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/614",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-04-29T17:20:45Z"
+          }
+        ],
+        "first_reaction": "2026-04-29T17:20:45Z",
+        "last_reaction": "2026-04-29T17:20:45Z"
+      }
+    ]
+  },
+  {
+    "full_name": "SAY-5/Backlog.md",
+    "prs": [
+      {
+        "number": 625,
+        "title": "BACK-458 - Fix promoted draft default status",
+        "state": "merged",
+        "created_at": "2026-05-02T02:48:15Z",
+        "merged_at": "2026-05-03T10:49:10Z",
+        "closed_at": "2026-05-03T10:49:10Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/625",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-02T19:19:23Z"
+          }
+        ],
+        "first_reaction": "2026-05-02T19:19:23Z",
+        "last_reaction": "2026-05-02T19:19:23Z"
+      }
+    ]
+  },
+  {
+    "full_name": "mattastovall/Backlog.md",
+    "prs": [
+      {
+        "number": 617,
+        "title": "BACK-454 - Default ordinals for created tasks",
+        "state": "merged",
+        "created_at": "2026-04-30T18:51:40Z",
+        "merged_at": "2026-05-01T22:50:15Z",
+        "closed_at": "2026-05-01T22:50:16Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/617",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-01T22:08:33Z"
+          }
+        ],
+        "first_reaction": "2026-05-01T22:08:33Z",
+        "last_reaction": "2026-05-01T22:08:33Z"
+      }
+    ]
+  },
+  {
+    "full_name": "souljedi/Backlog.md",
+    "prs": [
+      {
+        "number": 615,
+        "title": "BACK-452 - Add TUI keyboard shortcuts: Yank, Complete, Archive, and Help Menu",
+        "state": "merged",
+        "created_at": "2026-04-28T14:43:45Z",
+        "merged_at": "2026-05-03T11:37:32Z",
+        "closed_at": "2026-05-03T11:37:32Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/615",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T11:34:30Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T11:34:30Z",
+        "last_reaction": "2026-05-03T11:34:30Z"
+      }
+    ]
+  },
+  {
+    "full_name": "brenoperucchi/Backlog.md",
+    "prs": [
+      {
+        "number": 600,
+        "title": "BACK-437 - Document running backlog browser as a background service",
+        "state": "merged",
+        "created_at": "2026-04-22T15:18:48Z",
+        "merged_at": "2026-05-03T10:51:47Z",
+        "closed_at": "2026-05-03T10:51:47Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/600",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T10:50:44Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T10:50:44Z",
+        "last_reaction": "2026-05-03T10:50:44Z"
+      }
+    ]
+  },
+  {
+    "full_name": "flameOnYou/Backlog.md",
+    "prs": [
+      {
+        "number": 597,
+        "title": "Codex/multi project native backlog",
+        "state": "closed",
+        "created_at": "2026-04-20T02:23:29Z",
+        "merged_at": null,
+        "closed_at": "2026-04-20T02:34:53Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/597",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "deefactorial/Backlog.md",
+    "prs": [
+      {
+        "number": 591,
+        "title": "feat: add `backlog drift` command for structural drift detection",
+        "state": "closed",
+        "created_at": "2026-04-03T23:25:27Z",
+        "merged_at": null,
+        "closed_at": "2026-04-25T21:38:55Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/591",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "JayGhiya/Backlog.md",
+    "prs": [
+      {
+        "number": 587,
+        "title": "BACK-460 - Fix TUI selected-row readability in board and task list",
+        "state": "merged",
+        "created_at": "2026-04-01T11:02:56Z",
+        "merged_at": "2026-05-03T10:49:19Z",
+        "closed_at": "2026-05-03T10:49:19Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/587",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T10:18:08Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T10:18:08Z",
+        "last_reaction": "2026-05-03T10:18:08Z"
+      }
+    ]
+  },
+  {
+    "full_name": "lorenzb07/Backlog.md",
+    "prs": [
+      {
+        "number": 583,
+        "title": "BACK-409 - Clarify acceptance criteria format in task creation guide",
+        "state": "merged",
+        "created_at": "2026-03-26T13:57:38Z",
+        "merged_at": "2026-05-03T10:49:13Z",
+        "closed_at": "2026-05-03T10:49:13Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/583",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T09:46:46Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T09:46:46Z",
+        "last_reaction": "2026-05-03T09:46:46Z"
+      }
+    ]
+  },
+  {
+    "full_name": "eyanq/Backlog.md",
+    "prs": [
+      {
+        "number": 577,
+        "title": "BACK-439 - Allow backdrop click to close task modal",
+        "state": "merged",
+        "created_at": "2026-03-23T09:40:53Z",
+        "merged_at": "2026-05-03T10:50:56Z",
+        "closed_at": "2026-05-03T10:50:56Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/577",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T10:49:53Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T10:49:53Z",
+        "last_reaction": "2026-05-03T10:49:53Z"
+      }
+    ]
+  },
+  {
+    "full_name": "Luc0-0/Backlog.md",
+    "prs": [
+      {
+        "number": 575,
+        "title": "BACK-440 - Handle cancel in agents update prompt",
+        "state": "merged",
+        "created_at": "2026-03-22T13:43:09Z",
+        "merged_at": "2026-05-03T10:49:16Z",
+        "closed_at": "2026-05-03T10:49:16Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/575",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T09:39:11Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T09:39:11Z",
+        "last_reaction": "2026-05-03T09:39:11Z"
+      }
+    ]
+  },
+  {
+    "full_name": "aderius/Backlog.md",
+    "prs": [
+      {
+        "number": 574,
+        "title": "BACK-441 - Add kanban board filters to web UI",
+        "state": "merged",
+        "created_at": "2026-03-21T17:41:41Z",
+        "merged_at": "2026-05-03T10:44:40Z",
+        "closed_at": "2026-05-03T10:44:40Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/574",
+        "reaction_count": 2,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "tamarazuk",
+            "created_at": "2026-03-23T02:16:33Z"
+          },
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T10:41:26Z"
+          }
+        ],
+        "first_reaction": "2026-03-23T02:16:33Z",
+        "last_reaction": "2026-05-03T10:41:26Z"
+      }
+    ]
+  },
+  {
+    "full_name": "apetersson/Backlog.md",
+    "prs": [
+      {
+        "number": 565,
+        "title": "BACK-404 - Harden task ID locking for concurrent create/promote/demote operations",
+        "state": "merged",
+        "created_at": "2026-03-17T10:32:17Z",
+        "merged_at": "2026-03-19T22:21:22Z",
+        "closed_at": "2026-03-19T22:21:22Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/565",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-03-17T14:25:04Z"
+          }
+        ],
+        "first_reaction": "2026-03-17T14:25:04Z",
+        "last_reaction": "2026-03-17T14:25:04Z"
+      }
+    ]
+  },
+  {
+    "full_name": "mikesigs/Backlog.md",
+    "prs": [
+      {
+        "number": 554,
+        "title": "BACK-443 - Add PowerShell completion support",
+        "state": "merged",
+        "created_at": "2026-03-06T02:56:07Z",
+        "merged_at": "2026-04-25T23:24:20Z",
+        "closed_at": "2026-04-25T23:24:20Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/554",
+        "reaction_count": 2,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "MrLesk",
+            "created_at": "2026-03-09T20:18:17Z"
+          },
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-04-25T23:21:37Z"
+          }
+        ],
+        "first_reaction": "2026-03-09T20:18:17Z",
+        "last_reaction": "2026-04-25T23:21:37Z"
+      }
+    ]
+  },
+  {
+    "full_name": "maeste/Backlog.md",
+    "prs": [
+      {
+        "number": 550,
+        "title": "back-399 - Add-configurable-tasksDirectory-for-custom-task-storage-path",
+        "state": "open",
+        "created_at": "2026-02-25T12:55:03Z",
+        "merged_at": null,
+        "closed_at": null,
+        "url": "https://github.com/MrLesk/Backlog.md/pull/550",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 549,
+        "title": "BACK-398 - Add milestone filter to TUI board",
+        "state": "merged",
+        "created_at": "2026-02-25T12:11:32Z",
+        "merged_at": "2026-03-01T20:32:28Z",
+        "closed_at": "2026-03-01T20:32:28Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/549",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 548,
+        "title": "back-399 - Add-configurable-tasksDirectory-for-custom-task-storage-path",
+        "state": "closed",
+        "created_at": "2026-02-24T21:21:45Z",
+        "merged_at": null,
+        "closed_at": "2026-02-25T12:53:09Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/548",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 415,
+        "title": "TASK-308 - Add shell tab completion support for CLI commands",
+        "state": "merged",
+        "created_at": "2025-10-23T12:41:33Z",
+        "merged_at": "2025-10-27T21:48:51Z",
+        "closed_at": "2025-10-27T21:48:51Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/415",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "paoloantinori/Backlog.md",
+    "prs": [
+      {
+        "number": 544,
+        "title": "BACK-397 - Fix drag-and-drop between columns when target is shorter",
+        "state": "merged",
+        "created_at": "2026-02-22T09:40:25Z",
+        "merged_at": "2026-02-22T17:24:30Z",
+        "closed_at": "2026-02-22T17:24:30Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/544",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "mreferre/Backlog.md",
+    "prs": [
+      {
+        "number": 528,
+        "title": "BACK-390 - Add Kiro support in initialization flow and documentation",
+        "state": "merged",
+        "created_at": "2026-02-12T08:04:23Z",
+        "merged_at": "2026-02-17T21:59:53Z",
+        "closed_at": "2026-02-17T21:59:53Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/528",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "ysamlan/Backlog.md",
+    "prs": [
+      {
+        "number": 515,
+        "title": "BACK-461 - Add community tools section to README",
+        "state": "merged",
+        "created_at": "2026-02-10T17:18:01Z",
+        "merged_at": "2026-05-03T11:02:37Z",
+        "closed_at": "2026-05-03T11:02:37Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/515",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-05-03T10:57:48Z"
+          }
+        ],
+        "first_reaction": "2026-05-03T10:57:48Z",
+        "last_reaction": "2026-05-03T10:57:48Z"
+      }
+    ]
+  },
+  {
+    "full_name": "eisbaw/Backlog.md",
+    "prs": [
+      {
+        "number": 501,
+        "title": "BACK-379 - Auto-plain output when stdout is not a TTY",
+        "state": "merged",
+        "created_at": "2026-01-26T14:01:50Z",
+        "merged_at": "2026-02-09T20:00:14Z",
+        "closed_at": "2026-02-09T20:00:14Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/501",
+        "reaction_count": 2,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-01-26T14:07:02Z"
+          },
+          {
+            "content": "+1",
+            "user": "MrLesk",
+            "created_at": "2026-01-29T20:38:45Z"
+          }
+        ],
+        "first_reaction": "2026-01-26T14:07:02Z",
+        "last_reaction": "2026-01-29T20:38:45Z"
+      },
+      {
+        "number": 260,
+        "title": "TASK-210 - Refactor Nix packaging to build node_modules offline",
+        "state": "merged",
+        "created_at": "2025-07-27T00:01:08Z",
+        "merged_at": "2025-07-31T21:43:31Z",
+        "closed_at": "2025-07-31T21:43:31Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/260",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "zheruiqiu/Backlog.md",
+    "prs": [
+      {
+        "number": 500,
+        "title": "BACK-374 - Ensure MCP server exits when stdio closes and disposes watchers",
+        "state": "merged",
+        "created_at": "2026-01-23T04:21:53Z",
+        "merged_at": "2026-01-23T19:38:58Z",
+        "closed_at": "2026-01-23T19:38:58Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/500",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "mishkaechoes/Backlog.md",
+    "prs": [
+      {
+        "number": 490,
+        "title": "feat: enable symlink traversal in file scanning",
+        "state": "merged",
+        "created_at": "2026-01-19T12:44:39Z",
+        "merged_at": "2026-01-19T21:11:51Z",
+        "closed_at": "2026-01-19T21:11:51Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/490",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "saada/Backlog.md",
+    "prs": [
+      {
+        "number": 484,
+        "title": "Add migration to normalize lowercase task IDs",
+        "state": "merged",
+        "created_at": "2026-01-16T22:43:08Z",
+        "merged_at": "2026-01-17T08:29:08Z",
+        "closed_at": "2026-01-17T08:29:08Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/484",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 482,
+        "title": "Fix case sensitivity bug in reorderTask",
+        "state": "closed",
+        "created_at": "2026-01-16T22:16:23Z",
+        "merged_at": null,
+        "closed_at": "2026-01-16T22:38:34Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/482",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "andrewlongman07/Backlog.md",
+    "prs": [
+      {
+        "number": 462,
+        "title": "add planned start and end dates, added gantt view",
+        "state": "closed",
+        "created_at": "2025-12-17T15:20:31Z",
+        "merged_at": null,
+        "closed_at": "2025-12-17T15:23:16Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/462",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "Azd325/Backlog.md",
+    "prs": [
+      {
+        "number": 455,
+        "title": "TASK-340 - Fix nix build by pinning bun2nix to V1",
+        "state": "merged",
+        "created_at": "2025-12-08T22:20:34Z",
+        "merged_at": "2025-12-08T22:31:36Z",
+        "closed_at": "2025-12-08T22:31:36Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/455",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "Edke/Backlog.md",
+    "prs": [
+      {
+        "number": 449,
+        "title": "TASK-334 - Fix task numbering reset when all tasks archived",
+        "state": "merged",
+        "created_at": "2025-12-04T14:18:55Z",
+        "merged_at": "2025-12-04T20:15:18Z",
+        "closed_at": "2025-12-04T20:15:18Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/449",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "samvincent/Backlog.md",
+    "prs": [
+      {
+        "number": 433,
+        "title": "Task-318 - Add stdio inheritance for interactive editors (VIM/Neovim)",
+        "state": "merged",
+        "created_at": "2025-11-18T06:45:36Z",
+        "merged_at": "2025-11-24T21:32:14Z",
+        "closed_at": "2025-11-24T21:32:14Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/433",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "stalina/Backlog.md",
+    "prs": [
+      {
+        "number": 429,
+        "title": "TASK-317 - Add Mermaid diagram rendering in web UI",
+        "state": "merged",
+        "created_at": "2025-11-12T23:33:02Z",
+        "merged_at": "2025-11-14T19:37:47Z",
+        "closed_at": "2025-11-14T19:37:47Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/429",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      },
+      {
+        "number": 427,
+        "title": "TASK-316 - Serve backlog assets under /assets/*",
+        "state": "merged",
+        "created_at": "2025-11-11T18:05:57Z",
+        "merged_at": "2025-11-12T19:02:53Z",
+        "closed_at": "2025-11-12T19:02:53Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/427",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "heart",
+            "user": "MrLesk",
+            "created_at": "2025-11-11T20:40:40Z"
+          }
+        ],
+        "first_reaction": "2025-11-11T20:40:40Z",
+        "last_reaction": "2025-11-11T20:40:40Z"
+      }
+    ]
+  },
+  {
+    "full_name": "jammus/Backlog.md",
+    "prs": [
+      {
+        "number": 419,
+        "title": "TASK-322 - Fix flake.nix for devenv compatibility",
+        "state": "merged",
+        "created_at": "2025-10-26T08:11:14Z",
+        "merged_at": "2025-11-29T21:54:23Z",
+        "closed_at": "2025-11-29T21:54:24Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/419",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "mopemope/Backlog.md",
+    "prs": [
+      {
+        "number": 410,
+        "title": "TASK-304 - Update MCP integration documentation and CLI client commands",
+        "state": "merged",
+        "created_at": "2025-10-19T23:47:38Z",
+        "merged_at": "2025-10-20T19:23:57Z",
+        "closed_at": "2025-10-20T19:23:57Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/410",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "foertel/Backlog.md",
+    "prs": [
+      {
+        "number": 398,
+        "title": "Task 288 priority default in web interface",
+        "state": "closed",
+        "created_at": "2025-10-15T09:36:31Z",
+        "merged_at": null,
+        "closed_at": "2025-10-16T05:22:36Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/398",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "lwsinclair/Backlog.md",
+    "prs": [
+      {
+        "number": 395,
+        "title": "Add MseeP.ai badge",
+        "state": "closed",
+        "created_at": "2025-10-14T13:04:58Z",
+        "merged_at": null,
+        "closed_at": "2025-10-14T20:14:01Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/395",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "eciuca/Backlog.md",
+    "prs": [
+      {
+        "number": 394,
+        "title": "WIP: Add Plugin Architecture for Extensible CLI",
+        "state": "closed",
+        "created_at": "2025-10-13T14:24:10Z",
+        "merged_at": null,
+        "closed_at": "2026-04-25T21:10:09Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/394",
+        "reaction_count": 2,
+        "reactions": [
+          {
+            "content": "heart",
+            "user": "MrLesk",
+            "created_at": "2025-10-14T07:11:16Z"
+          },
+          {
+            "content": "heart",
+            "user": "svg153",
+            "created_at": "2026-03-04T12:41:41Z"
+          }
+        ],
+        "first_reaction": "2025-10-14T07:11:16Z",
+        "last_reaction": "2026-03-04T12:41:41Z"
+      },
+      {
+        "number": 393,
+        "title": "Tasks/task 287 jira integration v1",
+        "state": "closed",
+        "created_at": "2025-10-13T10:54:26Z",
+        "merged_at": null,
+        "closed_at": "2025-10-13T12:08:27Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/393",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "cocoich/Backlog.md",
+    "prs": [
+      {
+        "number": 387,
+        "title": "TASK-285 - adjust z-index tooltip style",
+        "state": "merged",
+        "created_at": "2025-10-09T05:20:01Z",
+        "merged_at": "2025-10-11T18:49:19Z",
+        "closed_at": "2025-10-11T18:49:19Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/387",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "maantano/Backlog.md",
+    "prs": [
+      {
+        "number": 380,
+        "title": "TASK-298 - Fix document title renames",
+        "state": "merged",
+        "created_at": "2025-09-29T01:43:55Z",
+        "merged_at": "2025-10-16T20:05:20Z",
+        "closed_at": "2025-10-16T20:05:20Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/380",
+        "reaction_count": 4,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "developerjhp",
+            "created_at": "2025-10-13T06:51:34Z"
+          },
+          {
+            "content": "+1",
+            "user": "Huinno-YoonJaeYoon",
+            "created_at": "2025-10-13T06:51:41Z"
+          },
+          {
+            "content": "+1",
+            "user": "Huinno-ParkJinHyun",
+            "created_at": "2025-10-13T06:51:47Z"
+          },
+          {
+            "content": "+1",
+            "user": "Huinno-joonhonoh",
+            "created_at": "2025-10-13T06:52:04Z"
+          }
+        ],
+        "first_reaction": "2025-10-13T06:51:34Z",
+        "last_reaction": "2025-10-13T06:52:04Z"
+      }
+    ]
+  },
+  {
+    "full_name": "radleta/Backlog.md",
+    "prs": [
+      {
+        "number": 355,
+        "title": "TASK 287 - Add MCP support for agent integration",
+        "state": "merged",
+        "created_at": "2025-09-15T13:14:04Z",
+        "merged_at": "2025-10-13T19:39:00Z",
+        "closed_at": "2025-10-13T19:39:00Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/355",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "hooray",
+            "user": "cfurrow",
+            "created_at": "2025-10-15T14:21:06Z"
+          }
+        ],
+        "first_reaction": "2025-10-15T14:21:06Z",
+        "last_reaction": "2025-10-15T14:21:06Z"
+      }
+    ]
+  },
+  {
+    "full_name": "pjsample/Backlog.md",
+    "prs": [
+      {
+        "number": 354,
+        "title": "BACK-444 - Support filesystem-only Backlog projects without Git",
+        "state": "merged",
+        "created_at": "2025-09-14T16:57:37Z",
+        "merged_at": "2026-04-26T00:55:31Z",
+        "closed_at": "2026-04-26T00:55:31Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/354",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-04-26T00:52:30Z"
+          }
+        ],
+        "first_reaction": "2026-04-26T00:52:30Z",
+        "last_reaction": "2026-04-26T00:52:30Z"
+      }
+    ]
+  },
+  {
+    "full_name": "sh5080/Backlog.md",
+    "prs": [
+      {
+        "number": 338,
+        "title": "BACK-445 - Add command filters to web search",
+        "state": "merged",
+        "created_at": "2025-09-10T00:02:25Z",
+        "merged_at": "2026-04-26T08:37:45Z",
+        "closed_at": "2026-04-26T08:37:45Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/338",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "+1",
+            "user": "chatgpt-codex-connector[bot]",
+            "created_at": "2026-04-26T08:35:49Z"
+          }
+        ],
+        "first_reaction": "2026-04-26T08:35:49Z",
+        "last_reaction": "2026-04-26T08:35:49Z"
+      },
+      {
+        "number": 293,
+        "title": "TASK-241 - Add View/Edit separation in TaskCard with TaskView modal",
+        "state": "closed",
+        "created_at": "2025-08-22T08:12:17Z",
+        "merged_at": null,
+        "closed_at": "2025-09-06T23:30:45Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/293",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "klauern/Backlog.md",
+    "prs": [
+      {
+        "number": 336,
+        "title": "feat: add MCP server for AI assistant integration",
+        "state": "closed",
+        "created_at": "2025-09-07T03:50:16Z",
+        "merged_at": null,
+        "closed_at": "2025-10-11T19:18:51Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/336",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "miracoly/Backlog.md",
+    "prs": [
+      {
+        "number": 287,
+        "title": "TASK-232 - Fix Nix build by exporting LD_LIBRARY_PATH",
+        "state": "merged",
+        "created_at": "2025-08-17T11:33:34Z",
+        "merged_at": "2025-08-17T15:03:41Z",
+        "closed_at": "2025-08-17T15:03:41Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/287",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "heart",
+            "user": "MrLesk",
+            "created_at": "2025-08-17T15:01:27Z"
+          }
+        ],
+        "first_reaction": "2025-08-17T15:01:27Z",
+        "last_reaction": "2025-08-17T15:01:27Z"
+      }
+    ]
+  },
+  {
+    "full_name": "varadan13/Backlog.md",
+    "prs": [
+      {
+        "number": 263,
+        "title": "TASK-219 - Refactor server component to fix separation of concerns violations",
+        "state": "merged",
+        "created_at": "2025-07-30T07:39:47Z",
+        "merged_at": "2025-07-31T19:08:56Z",
+        "closed_at": "2025-07-31T19:08:56Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/263",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "anpryl/Backlog.md",
+    "prs": [
+      {
+        "number": 226,
+        "title": "TASK-196 - Add NixOS packaging support",
+        "state": "merged",
+        "created_at": "2025-07-17T13:29:45Z",
+        "merged_at": "2025-07-21T18:34:01Z",
+        "closed_at": "2025-07-21T18:34:01Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/226",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "heart",
+            "user": "pomarec",
+            "created_at": "2025-07-21T07:08:08Z"
+          }
+        ],
+        "first_reaction": "2025-07-21T07:08:08Z",
+        "last_reaction": "2025-07-21T07:08:08Z"
+      }
+    ]
+  },
+  {
+    "full_name": "sergiorgiraldo/Backlog.md",
+    "prs": [
+      {
+        "number": 214,
+        "title": "Bypass git hooks",
+        "state": "closed",
+        "created_at": "2025-07-14T09:16:06Z",
+        "merged_at": null,
+        "closed_at": "2025-07-23T16:56:51Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/214",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  },
+  {
+    "full_name": "mjgs/Backlog.md",
+    "prs": [
+      {
+        "number": 206,
+        "title": "TASK-188 - Add support for zero-padded IDs",
+        "state": "merged",
+        "created_at": "2025-07-13T15:56:59Z",
+        "merged_at": "2025-07-13T19:58:17Z",
+        "closed_at": "2025-07-13T19:58:17Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/206",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "eyes",
+            "user": "MrLesk",
+            "created_at": "2025-07-13T16:27:30Z"
+          }
+        ],
+        "first_reaction": "2025-07-13T16:27:30Z",
+        "last_reaction": "2025-07-13T16:27:30Z"
+      },
+      {
+        "number": 204,
+        "title": "TASK-187 - fix(cli): respect autoCommit setting for all commands",
+        "state": "merged",
+        "created_at": "2025-07-13T15:43:23Z",
+        "merged_at": "2025-07-13T19:16:31Z",
+        "closed_at": "2025-07-13T19:16:31Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/204",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "eyes",
+            "user": "MrLesk",
+            "created_at": "2025-07-13T16:27:53Z"
+          }
+        ],
+        "first_reaction": "2025-07-13T16:27:53Z",
+        "last_reaction": "2025-07-13T16:27:53Z"
+      },
+      {
+        "number": 203,
+        "title": "TASK-186 - Ensure IDs for new items increment correctly",
+        "state": "merged",
+        "created_at": "2025-07-13T15:43:02Z",
+        "merged_at": "2025-07-13T18:15:10Z",
+        "closed_at": "2025-07-13T18:15:10Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/203",
+        "reaction_count": 1,
+        "reactions": [
+          {
+            "content": "eyes",
+            "user": "MrLesk",
+            "created_at": "2025-07-13T16:28:13Z"
+          }
+        ],
+        "first_reaction": "2025-07-13T16:28:13Z",
+        "last_reaction": "2025-07-13T16:28:13Z"
+      }
+    ]
+  },
+  {
+    "full_name": "hanbyul-kim/Backlog.md",
+    "prs": [
+      {
+        "number": 189,
+        "title": "Feature/reorder task in a column",
+        "state": "closed",
+        "created_at": "2025-07-09T07:35:14Z",
+        "merged_at": null,
+        "closed_at": "2025-07-23T16:59:03Z",
+        "url": "https://github.com/MrLesk/Backlog.md/pull/189",
+        "reaction_count": 0,
+        "reactions": [],
+        "first_reaction": null,
+        "last_reaction": null
+      }
+    ]
+  }
+]
