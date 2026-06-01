@@ -30511,9 +30511,9 @@
   {
     "full_name": "kuwork/Backlog.md",
     "owner": "kuwork",
-    "pushed_at": "2026-05-31T14:11:40Z",
+    "pushed_at": "2026-06-01T15:08:32Z",
     "total_branches_with_changes": 10,
-    "max_ahead": 66,
+    "max_ahead": 68,
     "max_behind": 6,
     "is_bot_only": false,
     "branches": [
@@ -34903,10 +34903,10 @@
         "full_name": "kuwork/Backlog.md",
         "branch": "wiki-fixed",
         "status": "diverged",
-        "ahead_by": 43,
+        "ahead_by": 44,
         "behind_by": 4,
         "merge_base_sha": "7af19f80ada6406fbefcfd95af347c809f544c8b",
-        "total_commits": 43,
+        "total_commits": 44,
         "commits": [
           {
             "sha": "6ea4ea4dd9d96b99f4ce1f8eb64a0f85af6f9997",
@@ -35194,8 +35194,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-494 - Fix task edit modal keyboard shortcuts interfering with title input",
-            "date": "2026-05-28T03:54:09Z",
-            "_is_new": true
+            "date": "2026-05-28T03:54:09Z"
           },
           {
             "sha": "223fda923173bbbdf2e37fc688ef1337e7ab0789",
@@ -35204,8 +35203,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-493 - Add actualStart and actualEnd support for milestones",
-            "date": "2026-05-28T19:01:45Z",
-            "_is_new": true
+            "date": "2026-05-28T19:01:45Z"
           },
           {
             "sha": "fc3d930e4ee4f386503e2569c1392b711a552162",
@@ -35214,8 +35212,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-495 - Implement tracking Gantt view with plan vs actual comparison",
-            "date": "2026-05-29T10:26:20Z",
-            "_is_new": true
+            "date": "2026-05-29T10:26:20Z"
           },
           {
             "sha": "a0abaca85aee3101b4f5f8cf79bbccc4f05c87e2",
@@ -35224,8 +35221,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-496 - Fix subtask grouping under parent task for ID sorting across all views",
-            "date": "2026-05-29T10:26:47Z",
-            "_is_new": true
+            "date": "2026-05-29T10:26:47Z"
           },
           {
             "sha": "ed90d1b0eeab2d35034047bbd60fa7ab2b2ecb7e",
@@ -35234,8 +35230,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-497 - Fix inconsistent timezone handling between CLI and web UI",
-            "date": "2026-05-29T14:18:16Z",
-            "_is_new": true
+            "date": "2026-05-29T14:18:16Z"
           },
           {
             "sha": "9a4b136d6bda086a26224918e844d2bf4453a0b0",
@@ -35244,8 +35239,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-498 - Auto-populate actualStart and actualEnd on task creation",
-            "date": "2026-05-29T14:18:49Z",
-            "_is_new": true
+            "date": "2026-05-29T14:18:49Z"
           },
           {
             "sha": "fe1c2174b588cc6afb0824d4a92ca6e8e5d4a435",
@@ -35254,8 +35248,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-499 - Fix sidebar collapse button overlapping resize handle",
-            "date": "2026-05-29T17:44:06Z",
-            "_is_new": true
+            "date": "2026-05-29T17:44:06Z"
           },
           {
             "sha": "387065e8ab1fe0b1ac40e69e6363c15de08b243b",
@@ -35264,8 +35257,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-500 - Kanban label color customization and card label overflow",
-            "date": "2026-05-30T03:20:52Z",
-            "_is_new": true
+            "date": "2026-05-30T03:20:52Z"
           },
           {
             "sha": "1dbef81202f46849e66e57de9c1a1b81fa01e215",
@@ -35274,8 +35266,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-501 - Task detail label input needs dropdown with fuzzy filter",
-            "date": "2026-05-30T03:21:50Z",
-            "_is_new": true
+            "date": "2026-05-30T03:21:50Z"
           },
           {
             "sha": "abb6ffb2734817ace27837d67b4a77d307fdf792",
@@ -35284,8 +35275,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-502 - Sync llm-wiki-for-backlog SKILL.md updates to embedded code",
-            "date": "2026-05-30T07:10:53Z",
-            "_is_new": true
+            "date": "2026-05-30T07:10:53Z"
           },
           {
             "sha": "a8f6758ad6aaa6ce4439d83c9fb37ebcad816c92",
@@ -35294,8 +35284,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-503 - Task completion in the last year",
-            "date": "2026-05-31T10:14:01Z",
-            "_is_new": true
+            "date": "2026-05-31T10:14:01Z"
           },
           {
             "sha": "e7cfc0adfd3e9acf8c570c523e82ce83414eba3f",
@@ -35304,13 +35293,22 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-504 - Fix kanban drag-and-drop column sort reset and cross-column drop positioning",
-            "date": "2026-05-31T13:59:14Z",
+            "date": "2026-05-31T13:59:14Z"
+          },
+          {
+            "sha": "5e925e2d71aeaf172320f370cc57f3b2a01f177f",
+            "short_sha": "5e925e2",
+            "author_login": "bhanuprasad14",
+            "author_name": "Test User",
+            "author_email": "test@example.com",
+            "message": "BACK-505 - Add drill-down navigation for task dependencies in Web UI",
+            "date": "2026-06-01T14:46:16Z",
             "_is_new": true
           }
         ],
-        "total_files": 161,
-        "total_additions": 14520,
-        "total_deletions": 1276,
+        "total_files": 162,
+        "total_additions": 14634,
+        "total_deletions": 1294,
         "files": [
           {
             "filename": ".codex/skills/llm-wiki-for-backlog/SKILL.md",
@@ -35598,6 +35596,12 @@
             "filename": "backlog/tasks/back-504 - Fix-kanban-drag-and-drop-column-sort-reset-and-cross-column-drop-positioning.md",
             "status": "added",
             "additions": 67,
+            "deletions": 0
+          },
+          {
+            "filename": "backlog/tasks/back-505 - Add-drill-down-navigation-for-task-dependencies-in-Web-UI.md",
+            "status": "added",
+            "additions": 56,
             "deletions": 0
           },
           {
@@ -35963,7 +35967,7 @@
           {
             "filename": "src/web/App.tsx",
             "status": "modified",
-            "additions": 65,
+            "additions": 89,
             "deletions": 13
           },
           {
@@ -36005,8 +36009,8 @@
           {
             "filename": "src/web/components/DependencyInput.tsx",
             "status": "modified",
-            "additions": 10,
-            "deletions": 4
+            "additions": 39,
+            "deletions": 21
           },
           {
             "filename": "src/web/components/DocumentationDetail.tsx",
@@ -36083,8 +36087,8 @@
           {
             "filename": "src/web/components/Modal.tsx",
             "status": "modified",
-            "additions": 4,
-            "deletions": 2
+            "additions": 9,
+            "deletions": 3
           },
           {
             "filename": "src/web/components/Navigation.tsx",
@@ -36284,10 +36288,10 @@
         "full_name": "kuwork/Backlog.md",
         "branch": "wiki-tmp",
         "status": "diverged",
-        "ahead_by": 66,
+        "ahead_by": 68,
         "behind_by": 4,
         "merge_base_sha": "7af19f80ada6406fbefcfd95af347c809f544c8b",
-        "total_commits": 66,
+        "total_commits": 68,
         "commits": [
           {
             "sha": "6ea4ea4dd9d96b99f4ce1f8eb64a0f85af6f9997",
@@ -36575,8 +36579,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-494 - Fix task edit modal keyboard shortcuts interfering with title input",
-            "date": "2026-05-28T03:54:09Z",
-            "_is_new": true
+            "date": "2026-05-28T03:54:09Z"
           },
           {
             "sha": "223fda923173bbbdf2e37fc688ef1337e7ab0789",
@@ -36585,8 +36588,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-493 - Add actualStart and actualEnd support for milestones",
-            "date": "2026-05-28T19:01:45Z",
-            "_is_new": true
+            "date": "2026-05-28T19:01:45Z"
           },
           {
             "sha": "fc3d930e4ee4f386503e2569c1392b711a552162",
@@ -36595,8 +36597,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-495 - Implement tracking Gantt view with plan vs actual comparison",
-            "date": "2026-05-29T10:26:20Z",
-            "_is_new": true
+            "date": "2026-05-29T10:26:20Z"
           },
           {
             "sha": "a0abaca85aee3101b4f5f8cf79bbccc4f05c87e2",
@@ -36605,8 +36606,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-496 - Fix subtask grouping under parent task for ID sorting across all views",
-            "date": "2026-05-29T10:26:47Z",
-            "_is_new": true
+            "date": "2026-05-29T10:26:47Z"
           },
           {
             "sha": "ed90d1b0eeab2d35034047bbd60fa7ab2b2ecb7e",
@@ -36615,8 +36615,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-497 - Fix inconsistent timezone handling between CLI and web UI",
-            "date": "2026-05-29T14:18:16Z",
-            "_is_new": true
+            "date": "2026-05-29T14:18:16Z"
           },
           {
             "sha": "9a4b136d6bda086a26224918e844d2bf4453a0b0",
@@ -36625,8 +36624,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-498 - Auto-populate actualStart and actualEnd on task creation",
-            "date": "2026-05-29T14:18:49Z",
-            "_is_new": true
+            "date": "2026-05-29T14:18:49Z"
           },
           {
             "sha": "fe1c2174b588cc6afb0824d4a92ca6e8e5d4a435",
@@ -36635,8 +36633,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-499 - Fix sidebar collapse button overlapping resize handle",
-            "date": "2026-05-29T17:44:06Z",
-            "_is_new": true
+            "date": "2026-05-29T17:44:06Z"
           },
           {
             "sha": "387065e8ab1fe0b1ac40e69e6363c15de08b243b",
@@ -36645,8 +36642,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-500 - Kanban label color customization and card label overflow",
-            "date": "2026-05-30T03:20:52Z",
-            "_is_new": true
+            "date": "2026-05-30T03:20:52Z"
           },
           {
             "sha": "1dbef81202f46849e66e57de9c1a1b81fa01e215",
@@ -36655,8 +36651,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-501 - Task detail label input needs dropdown with fuzzy filter",
-            "date": "2026-05-30T03:21:50Z",
-            "_is_new": true
+            "date": "2026-05-30T03:21:50Z"
           },
           {
             "sha": "abb6ffb2734817ace27837d67b4a77d307fdf792",
@@ -36665,8 +36660,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-502 - Sync llm-wiki-for-backlog SKILL.md updates to embedded code",
-            "date": "2026-05-30T07:10:53Z",
-            "_is_new": true
+            "date": "2026-05-30T07:10:53Z"
           },
           {
             "sha": "a8f6758ad6aaa6ce4439d83c9fb37ebcad816c92",
@@ -36675,8 +36669,7 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-503 - Task completion in the last year",
-            "date": "2026-05-31T10:14:01Z",
-            "_is_new": true
+            "date": "2026-05-31T10:14:01Z"
           },
           {
             "sha": "e7cfc0adfd3e9acf8c570c523e82ce83414eba3f",
@@ -36685,12 +36678,21 @@
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "BACK-504 - Fix kanban drag-and-drop column sort reset and cross-column drop positioning",
-            "date": "2026-05-31T13:59:14Z",
+            "date": "2026-05-31T13:59:14Z"
+          },
+          {
+            "sha": "5e925e2d71aeaf172320f370cc57f3b2a01f177f",
+            "short_sha": "5e925e2",
+            "author_login": "bhanuprasad14",
+            "author_name": "Test User",
+            "author_email": "test@example.com",
+            "message": "BACK-505 - Add drill-down navigation for task dependencies in Web UI",
+            "date": "2026-06-01T14:46:16Z",
             "_is_new": true
           },
           {
-            "sha": "af6f03f0b9548cfb3f513fd83932a4810f3a0416",
-            "short_sha": "af6f03f",
+            "sha": "c7b9d7a0e5e8427e7b7c0afac132229484e3900f",
+            "short_sha": "c7b9d7a",
             "author_login": "kuwork",
             "author_name": "kuwork",
             "author_email": "jerry535362936@126.com",
@@ -36699,8 +36701,8 @@
             "_is_new": true
           },
           {
-            "sha": "a4faf8324b95ced63fd880de7f520df57530a688",
-            "short_sha": "a4faf83",
+            "sha": "45d674bdee7360c061a3d1cc3cb3e7f0b965fb22",
+            "short_sha": "45d674b",
             "author_login": "kuwork",
             "author_name": "kuwork",
             "author_email": "jerry535362936@126.com",
@@ -36709,8 +36711,8 @@
             "_is_new": true
           },
           {
-            "sha": "5de26813a6f1909747c7086f6f0f3256469451eb",
-            "short_sha": "5de2681",
+            "sha": "656f932c14d58491b7855ec146b02fd8195780de",
+            "short_sha": "656f932",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36719,8 +36721,8 @@
             "_is_new": true
           },
           {
-            "sha": "7941035a8b9108fca0b3465d663840a7ae0450e7",
-            "short_sha": "7941035",
+            "sha": "4ad91c496fc5080f2e65b14d9329376efdf6ada9",
+            "short_sha": "4ad91c4",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36729,8 +36731,8 @@
             "_is_new": true
           },
           {
-            "sha": "c1c23a3d22f0beef1c90dadca90b8b5567aaf584",
-            "short_sha": "c1c23a3",
+            "sha": "a1bf4295f7dc7c7019e2ba4c89be684b895e1198",
+            "short_sha": "a1bf429",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36739,8 +36741,8 @@
             "_is_new": true
           },
           {
-            "sha": "c27083442055d6478b7cb5d930b5285c87b78fa5",
-            "short_sha": "c270834",
+            "sha": "f698c486eee4b6d27fa90e3d0750868dc82c22d4",
+            "short_sha": "f698c48",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36749,8 +36751,8 @@
             "_is_new": true
           },
           {
-            "sha": "24a7957a9198a02065b9ceaf037b838f73ec1d68",
-            "short_sha": "24a7957",
+            "sha": "ee6e6e00f62988a8abdc0deb7b3cd760df247415",
+            "short_sha": "ee6e6e0",
             "author_login": "kuwork",
             "author_name": "kuwork",
             "author_email": "jerry535362936@126.com",
@@ -36759,8 +36761,8 @@
             "_is_new": true
           },
           {
-            "sha": "2dcf0ecceab79c7e03646bbd54091266c3ef52e3",
-            "short_sha": "2dcf0ec",
+            "sha": "99c58fc5fa2139427713715a4594aec81729fce3",
+            "short_sha": "99c58fc",
             "author_login": "kuwork",
             "author_name": "kuwork",
             "author_email": "jerry535362936@126.com",
@@ -36769,8 +36771,8 @@
             "_is_new": true
           },
           {
-            "sha": "6894a18cd9e8c640a63588aa422797c9232f41f8",
-            "short_sha": "6894a18",
+            "sha": "649b0a442255691aa0b8d0b721904a7ceea611bc",
+            "short_sha": "649b0a4",
             "author_login": "kuwork",
             "author_name": "kuwork",
             "author_email": "jerry535362936@126.com",
@@ -36779,8 +36781,8 @@
             "_is_new": true
           },
           {
-            "sha": "cc572661a752e3d598083ad7f5320b01d1c5f2ce",
-            "short_sha": "cc57266",
+            "sha": "9231befd58b02786e038082ac6fd5a44f485a6e1",
+            "short_sha": "9231bef",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36789,8 +36791,8 @@
             "_is_new": true
           },
           {
-            "sha": "20eaf1a9436c9b7e81455ff8ed3e6158788b246c",
-            "short_sha": "20eaf1a",
+            "sha": "902f81531420a785885fdbca7c1c70e1e9310be5",
+            "short_sha": "902f815",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36799,8 +36801,8 @@
             "_is_new": true
           },
           {
-            "sha": "becc0938bf4b543a0cace09dd9521ab2c2f4ce45",
-            "short_sha": "becc093",
+            "sha": "4125910024c03ed9801868054e4d10015061d92e",
+            "short_sha": "4125910",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36809,8 +36811,8 @@
             "_is_new": true
           },
           {
-            "sha": "416bd7bb67ff8df760634b1fd5bed52f3cceb859",
-            "short_sha": "416bd7b",
+            "sha": "81bf00c4d5be48da71a75ed7ceaf99d99e4b8c7a",
+            "short_sha": "81bf00c",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36819,8 +36821,8 @@
             "_is_new": true
           },
           {
-            "sha": "33157aeb5767863f4e313e67df8466433611cdcb",
-            "short_sha": "33157ae",
+            "sha": "28775d1307dd217a6ac526ddb6ff1895fa619e3f",
+            "short_sha": "28775d1",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36829,8 +36831,8 @@
             "_is_new": true
           },
           {
-            "sha": "70e242ae06fc1621f3b1d4862c8704028ac271bf",
-            "short_sha": "70e242a",
+            "sha": "b8271c5fdb26aaad7326430d8b1854226ee0376d",
+            "short_sha": "b8271c5",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36839,8 +36841,8 @@
             "_is_new": true
           },
           {
-            "sha": "5964ddba9a82d1cc320764345171afc7b6a6e0a1",
-            "short_sha": "5964ddb",
+            "sha": "9f02338e968a5b28fa675c6d57f96d36ebd7b192",
+            "short_sha": "9f02338",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36849,8 +36851,8 @@
             "_is_new": true
           },
           {
-            "sha": "8eb3a66cc606153b0478d48fc25877f8022125c4",
-            "short_sha": "8eb3a66",
+            "sha": "9f7449c3d9460b9412db30deecbc6b6213e19408",
+            "short_sha": "9f7449c",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36859,8 +36861,8 @@
             "_is_new": true
           },
           {
-            "sha": "7a1b4a56a835e6d8df12ede8fb42a8d6c728e06f",
-            "short_sha": "7a1b4a5",
+            "sha": "97273022a4882ed5d6d218b079df1361faa31f74",
+            "short_sha": "9727302",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36869,8 +36871,8 @@
             "_is_new": true
           },
           {
-            "sha": "ba304d0b88910c23afbf18a6111fbda0f5afaf69",
-            "short_sha": "ba304d0",
+            "sha": "f92163cf13cad740447f5fd5be63ccbddac58e43",
+            "short_sha": "f92163c",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36879,8 +36881,8 @@
             "_is_new": true
           },
           {
-            "sha": "797d6d9fa36b5c4e3aaee9f2ef1af1d67c25d1bf",
-            "short_sha": "797d6d9",
+            "sha": "22ca36691014111b6a5475be0ba9668f978180b3",
+            "short_sha": "22ca366",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36889,8 +36891,8 @@
             "_is_new": true
           },
           {
-            "sha": "f642511712b29c9316c2e45198c881cb4b1f1d5f",
-            "short_sha": "f642511",
+            "sha": "07972648d282d00ac7e740eba069c4fbf3002de8",
+            "short_sha": "0797264",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36899,8 +36901,8 @@
             "_is_new": true
           },
           {
-            "sha": "0496bce067fcee46cf87cde155a3835dff8a0f97",
-            "short_sha": "0496bce",
+            "sha": "c1f26f9f291cdbb4dbe200b9cef8944bb7a26961",
+            "short_sha": "c1f26f9",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
@@ -36909,18 +36911,28 @@
             "_is_new": true
           },
           {
-            "sha": "f226a79822d0f9535761f707b5c74d30bc23ea51",
-            "short_sha": "f226a79",
+            "sha": "414d729109bd3f5e9304d410028802e43e7d2f5b",
+            "short_sha": "414d729",
             "author_login": "bhanuprasad14",
             "author_name": "Test User",
             "author_email": "test@example.com",
             "message": "wiki: ingest BACK-502~503, update usermanual for heatmap & locale",
             "date": "2026-05-31T10:55:02Z",
             "_is_new": true
+          },
+          {
+            "sha": "4df2f84a88fac708656cabae58f329bc927cf2db",
+            "short_sha": "4df2f84",
+            "author_login": "bhanuprasad14",
+            "author_name": "Test User",
+            "author_email": "test@example.com",
+            "message": "BACK-505 - Wiki ingest and update usermanual for drill-down navigation and kanban drag-fix",
+            "date": "2026-06-01T15:06:54Z",
+            "_is_new": true
           }
         ],
         "total_files": 300,
-        "total_additions": 19506,
+        "total_additions": 19236,
         "total_deletions": 64,
         "files": [
           {
@@ -37236,6 +37248,12 @@
             "deletions": 0
           },
           {
+            "filename": "backlog/tasks/back-505 - Add-drill-down-navigation-for-task-dependencies-in-Web-UI.md",
+            "status": "added",
+            "additions": 56,
+            "deletions": 0
+          },
+          {
             "filename": "backlog/wiki/concepts/asset-management.md",
             "status": "added",
             "additions": 53,
@@ -37340,7 +37358,7 @@
           {
             "filename": "backlog/wiki/concepts/web-ui-features.md",
             "status": "added",
-            "additions": 153,
+            "additions": 158,
             "deletions": 0
           },
           {
@@ -37365,6 +37383,12 @@
             "filename": "backlog/wiki/decisions/datetime-vs-date-only.md",
             "status": "added",
             "additions": 39,
+            "deletions": 0
+          },
+          {
+            "filename": "backlog/wiki/decisions/draggedtaskid-lift-to-board.md",
+            "status": "added",
+            "additions": 31,
             "deletions": 0
           },
           {
@@ -37399,6 +37423,12 @@
           },
           {
             "filename": "backlog/wiki/decisions/sunday-start-week-grid.md",
+            "status": "added",
+            "additions": 31,
+            "deletions": 0
+          },
+          {
+            "filename": "backlog/wiki/decisions/task-history-stack-over-route.md",
             "status": "added",
             "additions": 31,
             "deletions": 0
@@ -37500,6 +37530,12 @@
             "deletions": 0
           },
           {
+            "filename": "backlog/wiki/execution/task-drill-down-navigation-pattern.md",
+            "status": "added",
+            "additions": 50,
+            "deletions": 0
+          },
+          {
             "filename": "backlog/wiki/execution/timezone-unification.md",
             "status": "added",
             "additions": 38,
@@ -37508,19 +37544,19 @@
           {
             "filename": "backlog/wiki/index.md",
             "status": "added",
-            "additions": 207,
+            "additions": 210,
             "deletions": 0
           },
           {
             "filename": "backlog/wiki/log.md",
             "status": "added",
-            "additions": 182,
+            "additions": 207,
             "deletions": 0
           },
           {
             "filename": "backlog/wiki/overview.md",
             "status": "added",
-            "additions": 80,
+            "additions": 82,
             "deletions": 0
           },
           {
@@ -37599,6 +37635,18 @@
             "filename": "backlog/wiki/sources/back-502.md",
             "status": "added",
             "additions": 33,
+            "deletions": 0
+          },
+          {
+            "filename": "backlog/wiki/sources/back-504.md",
+            "status": "added",
+            "additions": 37,
+            "deletions": 0
+          },
+          {
+            "filename": "backlog/wiki/sources/back-505.md",
+            "status": "added",
+            "additions": 35,
             "deletions": 0
           },
           {
@@ -37898,7 +37946,7 @@
           {
             "filename": "backlog/wiki/usermanual/10-任务管理/03-子任务与依赖.md",
             "status": "added",
-            "additions": 112,
+            "additions": 122,
             "deletions": 0
           },
           {
@@ -37958,7 +38006,7 @@
           {
             "filename": "backlog/wiki/usermanual/40-Web界面/01-看板视图.md",
             "status": "added",
-            "additions": 98,
+            "additions": 104,
             "deletions": 0
           },
           {
@@ -38108,7 +38156,7 @@
           {
             "filename": "backlog/wiki_output/reports/wiki-pairing-memory.md",
             "status": "added",
-            "additions": 561,
+            "additions": 0,
             "deletions": 0
           },
           {
@@ -38683,42 +38731,6 @@
           },
           {
             "filename": "src/web/components/WikiDetail.tsx",
-            "status": "added",
-            "additions": 0,
-            "deletions": 0
-          },
-          {
-            "filename": "src/web/contexts/I18nContext.tsx",
-            "status": "added",
-            "additions": 0,
-            "deletions": 0
-          },
-          {
-            "filename": "src/web/hooks/useI18n.ts",
-            "status": "added",
-            "additions": 0,
-            "deletions": 0
-          },
-          {
-            "filename": "src/web/lib/api.ts",
-            "status": "modified",
-            "additions": 0,
-            "deletions": 0
-          },
-          {
-            "filename": "src/web/locales/en.ts",
-            "status": "added",
-            "additions": 0,
-            "deletions": 0
-          },
-          {
-            "filename": "src/web/locales/index.ts",
-            "status": "added",
-            "additions": 0,
-            "deletions": 0
-          },
-          {
-            "filename": "src/web/locales/ja.ts",
             "status": "added",
             "additions": 0,
             "deletions": 0
@@ -39664,20 +39676,998 @@
   {
     "full_name": "ambr-tech/Backlog.md",
     "owner": "ambr-tech",
-    "pushed_at": "2026-05-28T12:31:48Z",
-    "total_branches_with_changes": 1,
-    "max_ahead": 38,
-    "max_behind": 0,
+    "pushed_at": "2026-06-01T10:57:34Z",
+    "total_branches_with_changes": 2,
+    "max_ahead": 50,
+    "max_behind": 4,
     "is_bot_only": false,
     "branches": [
       {
         "full_name": "ambr-tech/Backlog.md",
-        "branch": "main",
-        "status": "ahead",
-        "ahead_by": 38,
-        "behind_by": 0,
+        "branch": "feature/min-width",
+        "status": "diverged",
+        "ahead_by": 50,
+        "behind_by": 4,
         "merge_base_sha": "7af19f80ada6406fbefcfd95af347c809f544c8b",
-        "total_commits": 38,
+        "total_commits": 50,
+        "commits": [
+          {
+            "sha": "0fba03083c19061e7b90757a20f5b924c7078d79",
+            "short_sha": "0fba030",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "add FORK-NOTES",
+            "date": "2026-05-20T22:32:46Z",
+            "_is_new": true
+          },
+          {
+            "sha": "228928b5df125fa873e9ea777d3ef177e10c6485",
+            "short_sha": "228928b",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "ブランチ命名規則を変更、言語指定",
+            "date": "2026-05-20T22:35:34Z",
+            "_is_new": true
+          },
+          {
+            "sha": "aa1d551e2f46fff9c52c476b53c5259efb461edf",
+            "short_sha": "aa1d551",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #1 from ambr-tech/feature/fork-notes\n\nFORK_NOTES.mdを追加",
+            "date": "2026-05-20T22:44:46Z",
+            "_is_new": true
+          },
+          {
+            "sha": "4fc00b0a8367f0f0ec41036daeb6ae563f2d0239",
+            "short_sha": "4fc00b0",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Add README.md",
+            "date": "2026-05-20T22:49:39Z",
+            "_is_new": true
+          },
+          {
+            "sha": "475d5ff859161ebd3b5c57b7c4e3cca856ddb223",
+            "short_sha": "475d5ff",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Version固定コマンド追記",
+            "date": "2026-05-20T22:55:43Z",
+            "_is_new": true
+          },
+          {
+            "sha": "81a6fa525e1219e4a6c69180464c3d94b996b6a3",
+            "short_sha": "81a6fa5",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "バージョン指定方法変更",
+            "date": "2026-05-20T22:59:38Z",
+            "_is_new": true
+          },
+          {
+            "sha": "4000e23e48831b8f119dd6afd42c2ccca9beb2c4",
+            "short_sha": "4000e23",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "ブラウザのデバッグ例追記",
+            "date": "2026-05-20T23:12:08Z",
+            "_is_new": true
+          },
+          {
+            "sha": "9fd8d6ac991a65a7d317274fd483cfda8229ec3e",
+            "short_sha": "9fd8d6a",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #2 from ambr-tech/feature/CustomREADMEmd\n\nFeature/custom readm emd",
+            "date": "2026-05-20T23:42:12Z",
+            "_is_new": true
+          },
+          {
+            "sha": "f304d433e29a5c7f85d591c1b33db225955ac8dc",
+            "short_sha": "f304d43",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "既存ファイルへの変更を最小限にするように",
+            "date": "2026-05-21T01:58:15Z",
+            "_is_new": true
+          },
+          {
+            "sha": "0040bf37cc96eed32ce03d700c6816410daac6c3",
+            "short_sha": "0040bf3",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #3 from ambr-tech/feature/min-diff\n\n既存ファイルへの変更を最小限にするように",
+            "date": "2026-05-21T01:59:09Z",
+            "_is_new": true
+          },
+          {
+            "sha": "da7df4312803737b513061033c655bdde2e0656f",
+            "short_sha": "da7df43",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge remote-tracking branch 'origin/main' into feature/budget-management",
+            "date": "2026-05-21T02:02:36Z",
+            "_is_new": true
+          },
+          {
+            "sha": "611d303e6dec7e2dbb64ba5b15bb4e41947a69a9",
+            "short_sha": "611d303",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "予実管理機能の仕様書を作成",
+            "date": "2026-05-21T02:59:07Z",
+            "_is_new": true
+          },
+          {
+            "sha": "3a80181ceea953de7945d120fef3893a38fc3e47",
+            "short_sha": "3a80181",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "フォルダパスをリネーム",
+            "date": "2026-05-21T03:20:00Z",
+            "_is_new": true
+          },
+          {
+            "sha": "3aa47d6977bc8c36f005494f5b6d21daadda17d3",
+            "short_sha": "3aa47d6",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] 予算管理機能 (Budget Management) を追加\n\nタスクごとの見積工数・実績工数・完了実績日を管理し、Milestone 単位で\n    ロールアップ集計する機能を実装。\n\n    - custom/src/budget/ に Core 実装（型 augmentation、schema、format、\n      frontmatter、completed-statuses、auto-complete-date、rollup、apply-input、\n      MCP schema、Web コンポーネント）を配置\n    - upstream タッチポイントは各 1〜2 行の委譲呼び出しに留め、マーカー\n      コメントを付与（parser/serializer/core/milestones/cli/formatter/\n      task-edit-builder/MCP schema・handlers/server/web）\n    - BacklogConfig.completedStatuses を upstream に 1 行追加（Q17b 決定事項）\n    - Task 編集モーダルに BudgetFields、Milestone カードに BudgetSummary、\n      MilestoneTaskRow に予算インライン表示を埋め込み\n    - MCP task_create/edit に estimatedDays / actualDays / completedDate を追加、\n      milestone_list 出力に予算サマリを併記\n    - custom/tests/budget/ にユニット・統合テスト 7 ファイル / 61 件を整備\n\n    スコープ外: TUI 編集、CLI フラグ、Milestone 詳細ページ専用テーブル、\n    E2E 自動テスト（spec §1.3 に準拠）",
+            "date": "2026-05-21T04:48:27Z",
+            "_is_new": true
+          },
+          {
+            "sha": "f782a7370810625ac7bb1e3416ff1b6ae09c852e",
+            "short_sha": "f782a73",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #4 from ambr-tech/feature/budget-management\n\n予実管理実装",
+            "date": "2026-05-21T05:31:37Z",
+            "_is_new": true
+          },
+          {
+            "sha": "afbd27fe2e58817448bffe4f5dddae3b84760a3b",
+            "short_sha": "afbd27f",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] WebUI の Assignee/Labels 入力にサジェスト機能を追加\n\n    - custom/src/suggest-chip-input/SuggestChipInput.tsx を新規追加\n      - 他タスクで既出の値をフィルタしてドロップダウン表示\n      - ArrowUp/ArrowDown でハイライト移動、Enter/カンマで確定\n      - Esc クローズ、Backspace で末尾チップ削除、マウスクリック確定にも対応\n      - サジェストにマッチしない場合は自由入力値をそのままチップ化\n    - TaskDetailsModal.tsx の Assignee/Labels セクションを ChipInput から\n      SuggestChipInput に置換。サジェスト元は既存の availableTasks から\n      useMemo で重複排除して導出\n    - 既存ファイルの変更は [Custom] マーカー付きで最小化 (+19 / -3 行)",
+            "date": "2026-05-21T06:14:59Z",
+            "_is_new": true
+          },
+          {
+            "sha": "18c21bbf0bc6d9fce915421805c6f90f13e740c7",
+            "short_sha": "18c21bb",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #5 from ambr-tech/feature/webui-assignee-label-suggest\n\n[Custom] WebUI の Assignee/Labels 入力にサジェスト機能を追加",
+            "date": "2026-05-21T06:23:50Z",
+            "_is_new": true
+          },
+          {
+            "sha": "1ad28feeb9b3eefb6291e5f808280b6eacd6f240",
+            "short_sha": "1ad28fe",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "タスクページをURL対応",
+            "date": "2026-05-21T06:41:19Z",
+            "_is_new": true
+          },
+          {
+            "sha": "23c29de8264c25cd71f47ba97041c80ce0324f73",
+            "short_sha": "23c29de",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] タスク URL 同期の不具合を修正\n\n- parseTaskPath の ID プレフィックスを `task-` 決め打ちから\n      任意セグメントに緩和 (BACK-217 等への対応)\n    - TaskUrlSync の両 effect を「URL 変化のみ」「state 変化のみ」で\n      発火させるよう依存配列を最小化し、location/navigate/onOpenTask/\n      onCloseTask/tasks/isLoading を ref 経由でアクセス\n    - state->URL effect の初回マウント skip を追加し、直リン時の\n      navigate(-1) 誤発火を防止\n    - parseTaskPath / isTaskPath のテストに任意プレフィックスケースを追加",
+            "date": "2026-05-21T07:25:55Z",
+            "_is_new": true
+          },
+          {
+            "sha": "4c55a6420422c8867540548063ffd3773b19ee9a",
+            "short_sha": "4c55a64",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] タスク URL 同期をクエリパラメータ駆動に変更\n\n    タスクをクリックした際にモーダル背後のページが All Tasks に\n    切り替わる不具合を解消するため、URL を /tasks/<id> パスから\n    ベース画面 + ?task=<id> クエリ形式に変更。Routes 再評価による\n    画面切替を回避し、Board / Milestones 等のベース画面を維持\n    したままモーダルを重ねられるようにする。\n\n    - taskUrlPath.ts を URLSearchParams 駆動の関数群\n      (parseTaskId / buildSearchWithTaskId / buildSearchWithoutTaskId\n       / hasTaskId) に置換\n    - TaskUrlSync の両 effect を「URL 変化のみ」「state 変化のみ」で\n      発火させるよう依存配列を最小化し、location / navigate /\n      onOpenTask / onCloseTask / tasks / isLoading を ref 経由で\n      アクセス\n    - state->URL effect に初回マウント skip を追加し、直リン時の\n      誤発火を防止\n    - App.tsx の Custom 追加分 <Route path=\"tasks/:taskId\"> を削除\n    - taskUrlPath.test.ts を新 API 対応に刷新 (25 ケース)",
+            "date": "2026-05-21T07:54:39Z",
+            "_is_new": true
+          },
+          {
+            "sha": "3989561e2e8b9328483202c9e52b96fb0772b803",
+            "short_sha": "3989561",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Remove Log",
+            "date": "2026-05-21T07:59:16Z",
+            "_is_new": true
+          },
+          {
+            "sha": "3a30909201301ea3810b1145b73b00918b4b240e",
+            "short_sha": "3a30909",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #6 from ambr-tech/feature/task-url\n\nタスクを開いたときにURL化、URLからタスクページにアクセスできるようにした",
+            "date": "2026-05-21T08:03:04Z",
+            "_is_new": true
+          },
+          {
+            "sha": "ac498d716d84119fd074982f5a9c4e878b9e0621",
+            "short_sha": "ac498d7",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] テキスト入力中の単独キーショートカット誤発火を防止\n\n    preview モードのタスク詳細モーダルで `e` / `c` 単独キーが\n    グローバル keydown ハンドラに登録されており、サイドバー検索や\n    MDEditor 等のテキスト入力にフォーカスがある状態で文字を打つと\n    意図せず編集モード遷移・完了処理が走る不具合に対処。\n\n    判定ロジックは custom/src/keyboard-shortcuts/isTypingInTextField.ts\n    に切り出し、既存ファイルからは委譲呼び出しのみ。Escape と\n    Ctrl/Cmd 修飾付きショートカット (Ctrl+S 保存等) はテキスト入力中\n    でも従来通り反応する。",
+            "date": "2026-05-21T09:22:49Z",
+            "_is_new": true
+          },
+          {
+            "sha": "385c213c89051d722c1ddaadb107d73cc05781c4",
+            "short_sha": "385c213",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #7 from ambr-tech/feature/suppress-shortcuts-in-text-fields\n\n[Custom] テキスト入力中の単独キーショートカット誤発火を防止",
+            "date": "2026-05-21T09:23:47Z",
+            "_is_new": true
+          },
+          {
+            "sha": "c7282dc4fe83b86c6dfd96f1e3b83861270a1b29",
+            "short_sha": "c7282dc",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] WebUI Assignee/Labels 入力が消える事象を修正\n\n    タスク詳細モーダルで Assignee / Labels に入力し Enter または\n    サジェスト選択を行うと、入力した文字列が消えチップが追加されない\n    ことがあった。\n\n    原因は TaskDetailsModal の reset useEffect が\n    [task, isOpen, isCreateMode, isDraftMode, availableStatuses,\n    defaultDefinitionOfDone] を依存に持つため、handleInlineMetaUpdate\n    → refreshData() 完了時に親側で再生成された availableStatuses 等\n    の参照変化で発火し、まだ古い task props のまま\n    setAssignee / setLabels を空配列で巻き戻していたこと。\n    App.tsx の editingTask sync useEffect は次のレンダリングサイクル\n    でしか走らないためレースが発生していた。\n\n    同一性キー (task.id + isOpen + create/edit) を useRef で保持し、\n    キーが変わらない限り state 初期化をスキップするガードを追加。\n    依存配列は変更せず、ガードのみで分岐させる最小修正とした。\n\n    調査用デバッグログ (custom/src/suggest-chip-debug/) は修正効果の\n    検証用に一旦残す。検証完了後に別コミットで削除する。",
+            "date": "2026-05-21T10:14:17Z",
+            "_is_new": true
+          },
+          {
+            "sha": "25796524a4dbd35316780d1163b2ef41e3311328",
+            "short_sha": "2579652",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Revert \"[Custom] WebUI Assignee/Labels 入力が消える事象を修正\"\n\nThis reverts commit c7282dc4fe83b86c6dfd96f1e3b83861270a1b29.",
+            "date": "2026-05-21T10:14:25Z",
+            "_is_new": true
+          },
+          {
+            "sha": "68d12ce2ab7e4562b466d0831a771bbd7bd06c0e",
+            "short_sha": "68d12ce",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] WebUI Assignee/Labels 入力が消える事象を修正\n\n    タスク詳細モーダルで Assignee / Labels に入力し Enter または\n    サジェスト選択を行うと、入力した文字列が消えチップが追加されない\n    ことがあった。\n\n    原因は TaskDetailsModal の reset useEffect が\n    [task, isOpen, isCreateMode, isDraftMode, availableStatuses,\n    defaultDefinitionOfDone] を依存に持つため、handleInlineMetaUpdate\n    → refreshData() 完了時に親側で再生成された availableStatuses 等\n    の参照変化で発火し、まだ古い task props のまま\n    setAssignee / setLabels を空配列で巻き戻していたこと。\n    App.tsx の editingTask sync useEffect は次のレンダリングサイクル\n    でしか走らないためレースが発生していた。\n\n    同一性キー (task.id + isOpen + create/edit) を useRef で保持し、\n    キーが変わらない限り state 初期化をスキップするガードを追加。\n    依存配列は変更せず、ガードのみで分岐させる最小修正とした。\n\n    調査用デバッグログ (custom/src/suggest-chip-debug/) は修正効果の\n    検証用に一旦残す。検証完了後に別コミットで削除する。",
+            "date": "2026-05-21T10:14:17Z",
+            "_is_new": true
+          },
+          {
+            "sha": "e79a2a708beb82e10c76f03483868932d102e7ba",
+            "short_sha": "e79a2a7",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #8 from ambr-tech/feature/fix-web-ui-assignee-labels-input-loss\n\n[Custom] WebUI Assignee/Labels 入力が消える事象を修正",
+            "date": "2026-05-21T10:15:32Z",
+            "_is_new": true
+          },
+          {
+            "sha": "2f8b09cb157fe6be7d14f81fc637e88732ea823a",
+            "short_sha": "2f8b09c",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Update README.md",
+            "date": "2026-05-22T06:16:39Z",
+            "_is_new": true
+          },
+          {
+            "sha": "d17b1530537ce2f4e5bbf4c816da8f32ab6531bd",
+            "short_sha": "d17b153",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "クロスコンパイルバッチ追加",
+            "date": "2026-05-22T10:00:58Z",
+            "_is_new": true
+          },
+          {
+            "sha": "dcf8ce1246653fb21a20355310b7877c5f641103",
+            "short_sha": "dcf8ce1",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #9 from ambr-tech/feature/build-cross\n\nクロスコンパイルバッチ追加",
+            "date": "2026-05-22T10:01:24Z",
+            "_is_new": true
+          },
+          {
+            "sha": "0a7a6df81eb36288bfb1398e0f1ac9138ac16eee",
+            "short_sha": "0a7a6df",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "READMEにパスを通す必要性を追記",
+            "date": "2026-05-22T10:06:41Z",
+            "_is_new": true
+          },
+          {
+            "sha": "e0851bed4529e7540bf53e7cdd0d8c6ef4c38a42",
+            "short_sha": "e0851be",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] LabelsフィルタをORからAND判定に統一\n\nWebUI(タスク一覧・ボード)・CLI search・TUIのLabelsフィルタを、\n    複数ラベル選択時にすべてのラベルを含むタスクのみ表示するAND判定に統一する。\n    MCPは既にAND判定のため、アプリ全体で挙動が一致する。\n\n    - AND判定の共通関数 matchesAllLabels を custom/src/label-and-filter/ に新設\n    - search-service.ts / task-search.ts / Board.tsx の各フィルタを共通関数の呼び出しに置換\n      （既存ファイルは [Custom] マーカー付きの最小変更）\n    - 影響するテストの期待値をAND挙動に更新し、共通関数の単体テストを追加",
+            "date": "2026-05-24T10:07:32Z",
+            "_is_new": true
+          },
+          {
+            "sha": "e4694190dc5ec2a0a6b8a3443a80b1bb67ed3c64",
+            "short_sha": "e469419",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #10 from ambr-tech/feature/web-labels-and-filter\n\n[Custom] LabelsフィルタをORからAND判定に統一",
+            "date": "2026-05-24T10:08:07Z",
+            "_is_new": true
+          },
+          {
+            "sha": "b50fc605186b8321a8ac8f1416bd87524593aeb0",
+            "short_sha": "b50fc60",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "[Custom] キー入力するまでプロンプトを閉じないようにしてビルド結果を確認できるようにした",
+            "date": "2026-05-24T10:22:38Z",
+            "_is_new": true
+          },
+          {
+            "sha": "9dfeb530088a9338a27bd389554c7d5f0e943135",
+            "short_sha": "9dfeb53",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #11 from ambr-tech/feature/output-error-buildscript\n\n[Custom] キー入力するまでプロンプトを閉じないようにしてビルド結果を確認できるようにした",
+            "date": "2026-05-24T10:23:06Z",
+            "_is_new": true
+          },
+          {
+            "sha": "c48609fd30b678ab7ea98045065ee6ec32ab57d0",
+            "short_sha": "c48609f",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "build-cross の CSS ビルドで Tailwind を直接実行するバッチを追加",
+            "date": "2026-05-28T12:30:17Z",
+            "_is_new": true
+          },
+          {
+            "sha": "72c51eb74d52b631f73ae7b7ab492925c4f3b393",
+            "short_sha": "72c51eb",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #12 from ambr-tech/fix/build-cross-direct-tailwind\n\nbuild-cross の CSS ビルドで Tailwind を直接実行するバッチを追加",
+            "date": "2026-05-28T12:31:45Z",
+            "_is_new": true
+          },
+          {
+            "sha": "8d23d5264c25c028e275ca2892de7aa9a4c7031b",
+            "short_sha": "8d23d52",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Windows向けのbacklog.exe解放バッチ追加",
+            "date": "2026-06-01T01:51:31Z",
+            "_is_new": true
+          },
+          {
+            "sha": "fbbec2ef750109ad73e6daaaad41cb3b6a66337b",
+            "short_sha": "fbbec2e",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #13 from ambr-tech/feature/delete_dist_run_backlog\n\nWindows向けのbacklog.exe解放バッチ追加",
+            "date": "2026-06-01T01:53:58Z",
+            "_is_new": true
+          },
+          {
+            "sha": "318525a6811e63036734bf30eb667148b575ea29",
+            "short_sha": "318525a",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "bun run cli --browserを実行するバッチ追加",
+            "date": "2026-06-01T01:56:16Z",
+            "_is_new": true
+          },
+          {
+            "sha": "6a9b1f954423e17606e71b9a9717c07d4a56eaeb",
+            "short_sha": "6a9b1f9",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #14 from ambr-tech/feature/bun-run-cli-browser\n\nbun run cli --browserを実行するバッチ追加",
+            "date": "2026-06-01T01:56:53Z",
+            "_is_new": true
+          },
+          {
+            "sha": "a3544cf4939d4874a2db4a29d7469b64774c4cdc",
+            "short_sha": "a3544cf",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Rename",
+            "date": "2026-06-01T01:58:06Z",
+            "_is_new": true
+          },
+          {
+            "sha": "409f62988ba1223c64d4e629a527bbdc2385ec7e",
+            "short_sha": "409f629",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "chore(scripts): ビルド後にdistをrunへコピーするスクリプト群を追加\n\nintent(scripts): build-cross.bat成功後にdelete→copyを連続実行するバッチが欲しい\ndecision(build-and-copy): deployではなくcopyという命名 — デプロイ処理は含まないため\ndecision(build-and-copy): 各ステップでERRORLEVELを確認し失敗時は即中断する設計",
+            "date": "2026-06-01T02:08:11Z",
+            "_is_new": true
+          },
+          {
+            "sha": "96f5258c5c58c88ba6d49fa9da97d87bd12b7581",
+            "short_sha": "96f5258",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #15 from ambr-tech/chore/add_build_copy_scripts\n\nchore(scripts): ビルド後にdistをrunへコピーするスクリプト群を追加",
+            "date": "2026-06-01T02:11:14Z",
+            "_is_new": true
+          },
+          {
+            "sha": "739a66d821471fe34e5de10b88c05a7182180954",
+            "short_sha": "739a66d",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "キー入力待ちなしでビルドシーケンスを実行できるように",
+            "date": "2026-06-01T02:30:25Z",
+            "_is_new": true
+          },
+          {
+            "sha": "1b29b8af66ce445a881883ef94480f5bd53b2c06",
+            "short_sha": "1b29b8a",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #16 from ambr-tech/feature/build-cross-no-wait\n\nキー入力待ちなしでビルドシーケンスを実行できるように",
+            "date": "2026-06-01T02:30:44Z",
+            "_is_new": true
+          },
+          {
+            "sha": "fdd602e8024d37eec93e43e571b64244746f3236",
+            "short_sha": "fdd602e",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "fix(task-url-routing): URL直接アクセス時にタスクモーダルが開かない問題を修正\n\nlearned(react-strict-mode): Strict Mode は useEffect を mount → cleanup → re-mount の順で実行するため、依存配列が変化しなくても同一マウントサイクルで effect が2回発火する\nconstraint(isFirstStateEffectRef): 早期 return パスではクリーンアップ関数が登録されないため、Strict Mode の cleanup 時にフラグがリセットされなかった\ndecision(task-url-routing): state→URL effect と同じ依存配列 [] を持つ専用 useEffect のクリーンアップでリセットする方針を採用\nrejected(task-url-routing): isLoading ガードをstateURLeffectに追加する案 — isLoading が変化しても state→URL effect は再発火しないため、ガードが解除されるタイミングを検知できない\nrejected(task-url-routing): state→URL effect の全 return パスにクリーンアップ関数を追加する案 — 通常の effect 再実行（showModal/editingTask 変化時）にもリセットが走り、モーダル開閉の URL 同期が壊れる\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+            "date": "2026-06-01T03:03:51Z",
+            "_is_new": true
+          },
+          {
+            "sha": "7fa0c28f6e26a7994eae4d517ed6f544d81318ac",
+            "short_sha": "7fa0c28",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #17 from ambr-tech/feature/fix-open-task-page\n\nfix(task-url-routing): URL直接アクセス時にタスクモーダルが開かない問題を修正",
+            "date": "2026-06-01T03:08:14Z",
+            "_is_new": true
+          },
+          {
+            "sha": "ea2dc440236e85fb78903bb420a81c02a92ecd28",
+            "short_sha": "ea2dc44",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "min_column_widthを実装",
+            "date": "2026-06-01T10:57:32Z",
+            "_is_new": true
+          }
+        ],
+        "total_files": 77,
+        "total_additions": 4157,
+        "total_deletions": 63,
+        "files": [
+          {
+            "filename": "AGENTS.md",
+            "status": "modified",
+            "additions": 2,
+            "deletions": 0
+          },
+          {
+            "filename": "FORK_NOTES.md",
+            "status": "added",
+            "additions": 66,
+            "deletions": 0
+          },
+          {
+            "filename": "FORK_NOTES_abstract.md",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/README.md",
+            "status": "added",
+            "additions": 369,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/spec/CONTEXT.md",
+            "status": "added",
+            "additions": 78,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/spec/adr/0001-budget-impl-in-custom.md",
+            "status": "added",
+            "additions": 20,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/spec/adr/0002-archive-excluded-from-rollup.md",
+            "status": "added",
+            "additions": 20,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/spec/adr/0003-parent-task-budget-input-but-excluded-from-rollup.md",
+            "status": "added",
+            "additions": 21,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/spec/output/review_budget_management.md",
+            "status": "added",
+            "additions": 297,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/spec/spec_budget_management.md",
+            "status": "added",
+            "additions": 614,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/apply-input.ts",
+            "status": "added",
+            "additions": 74,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/auto-complete-date.ts",
+            "status": "added",
+            "additions": 48,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/completed-statuses.ts",
+            "status": "added",
+            "additions": 50,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/format.ts",
+            "status": "added",
+            "additions": 48,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/frontmatter.ts",
+            "status": "added",
+            "additions": 80,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/mcp/schema.ts",
+            "status": "added",
+            "additions": 55,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/rollup.ts",
+            "status": "added",
+            "additions": 105,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/schema.ts",
+            "status": "added",
+            "additions": 78,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/types.ts",
+            "status": "added",
+            "additions": 29,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/web/BudgetFields.tsx",
+            "status": "added",
+            "additions": 111,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/budget/web/BudgetSummary.tsx",
+            "status": "added",
+            "additions": 69,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/keyboard-shortcuts/isTypingInTextField.ts",
+            "status": "added",
+            "additions": 32,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/label-and-filter/matchesAllLabels.ts",
+            "status": "added",
+            "additions": 17,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/output/spec_fix_task_url.md",
+            "status": "added",
+            "additions": 184,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/suggest-chip-debug/log.ts",
+            "status": "added",
+            "additions": 48,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/suggest-chip-input/SuggestChipInput.tsx",
+            "status": "added",
+            "additions": 244,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/task-url-routing/TaskUrlSync.tsx",
+            "status": "added",
+            "additions": 140,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/src/task-url-routing/taskUrlPath.ts",
+            "status": "added",
+            "additions": 29,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/budget/apply-input.test.ts",
+            "status": "added",
+            "additions": 58,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/budget/auto-complete-date.test.ts",
+            "status": "added",
+            "additions": 96,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/budget/completed-statuses.test.ts",
+            "status": "added",
+            "additions": 47,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/budget/format.test.ts",
+            "status": "added",
+            "additions": 57,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/budget/frontmatter.test.ts",
+            "status": "added",
+            "additions": 82,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/budget/rollup.test.ts",
+            "status": "added",
+            "additions": 82,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/budget/schema.test.ts",
+            "status": "added",
+            "additions": 82,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/label-and-filter/matchesAllLabels.test.ts",
+            "status": "added",
+            "additions": 25,
+            "deletions": 0
+          },
+          {
+            "filename": "custom/tests/task-url-routing/taskUrlPath.test.ts",
+            "status": "added",
+            "additions": 90,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/build-and-copy.bat",
+            "status": "added",
+            "additions": 27,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/build-cross-direct-tailwind.bat",
+            "status": "added",
+            "additions": 3,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/build-cross-direct-tailwind.ps1",
+            "status": "added",
+            "additions": 52,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/build-cross-no-wait.bat",
+            "status": "added",
+            "additions": 3,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/build-cross.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/build-cross.ps1",
+            "status": "added",
+            "additions": 57,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/bun-run-cli-browser.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/copy-dist-to-run.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/copy-dist-to-run.ps1",
+            "status": "added",
+            "additions": 13,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/delete-dist-run-backlog.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/delete-dist-run-backlog.ps1",
+            "status": "added",
+            "additions": 65,
+            "deletions": 0
+          },
+          {
+            "filename": "src/cli.ts",
+            "status": "modified",
+            "additions": 16,
+            "deletions": 3
+          },
+          {
+            "filename": "src/core/backlog.ts",
+            "status": "modified",
+            "additions": 13,
+            "deletions": 0
+          },
+          {
+            "filename": "src/core/milestones.ts",
+            "status": "modified",
+            "additions": 5,
+            "deletions": 3
+          },
+          {
+            "filename": "src/core/search-service.ts",
+            "status": "modified",
+            "additions": 6,
+            "deletions": 13
+          },
+          {
+            "filename": "src/file-system/operations.ts",
+            "status": "modified",
+            "additions": 5,
+            "deletions": 0
+          },
+          {
+            "filename": "src/formatters/task-plain-text.ts",
+            "status": "modified",
+            "additions": 14,
+            "deletions": 0
+          },
+          {
+            "filename": "src/markdown/parser.ts",
+            "status": "modified",
+            "additions": 3,
+            "deletions": 1
+          },
+          {
+            "filename": "src/markdown/serializer.ts",
+            "status": "modified",
+            "additions": 2,
+            "deletions": 0
+          },
+          {
+            "filename": "src/mcp/tools/milestones/handlers.ts",
+            "status": "modified",
+            "additions": 24,
+            "deletions": 1
+          },
+          {
+            "filename": "src/mcp/tools/tasks/handlers.ts",
+            "status": "modified",
+            "additions": 8,
+            "deletions": 0
+          },
+          {
+            "filename": "src/mcp/utils/schema-generators.ts",
+            "status": "modified",
+            "additions": 3,
+            "deletions": 0
+          },
+          {
+            "filename": "src/server/index.ts",
+            "status": "modified",
+            "additions": 27,
+            "deletions": 0
+          },
+          {
+            "filename": "src/test/enhanced-init.test.ts",
+            "status": "modified",
+            "additions": 2,
+            "deletions": 0
+          },
+          {
+            "filename": "src/test/task-search-label-filter.test.ts",
+            "status": "modified",
+            "additions": 4,
+            "deletions": 2
+          },
+          {
+            "filename": "src/test/web-board-filters.test.tsx",
+            "status": "modified",
+            "additions": 10,
+            "deletions": 1
+          },
+          {
+            "filename": "src/types/index.ts",
+            "status": "modified",
+            "additions": 2,
+            "deletions": 0
+          },
+          {
+            "filename": "src/types/task-edit-args.ts",
+            "status": "modified",
+            "additions": 3,
+            "deletions": 0
+          },
+          {
+            "filename": "src/utils/task-edit-builder.ts",
+            "status": "modified",
+            "additions": 18,
+            "deletions": 0
+          },
+          {
+            "filename": "src/utils/task-search.ts",
+            "status": "modified",
+            "additions": 4,
+            "deletions": 8
+          },
+          {
+            "filename": "src/web/App.tsx",
+            "status": "modified",
+            "additions": 24,
+            "deletions": 0
+          },
+          {
+            "filename": "src/web/components/Board.tsx",
+            "status": "modified",
+            "additions": 9,
+            "deletions": 4
+          },
+          {
+            "filename": "src/web/components/BoardPage.tsx",
+            "status": "modified",
+            "additions": 3,
+            "deletions": 0
+          },
+          {
+            "filename": "src/web/components/MilestoneTaskRow.tsx",
+            "status": "modified",
+            "additions": 12,
+            "deletions": 0
+          },
+          {
+            "filename": "src/web/components/MilestonesPage.tsx",
+            "status": "modified",
+            "additions": 9,
+            "deletions": 3
+          },
+          {
+            "filename": "src/web/components/Settings.tsx",
+            "status": "modified",
+            "additions": 18,
+            "deletions": 0
+          },
+          {
+            "filename": "src/web/components/TaskDetailsModal.tsx",
+            "status": "modified",
+            "additions": 97,
+            "deletions": 10
+          },
+          {
+            "filename": "src/web/components/TaskList.tsx",
+            "status": "modified",
+            "additions": 21,
+            "deletions": 12
+          },
+          {
+            "filename": "src/web/lib/api.ts",
+            "status": "modified",
+            "additions": 7,
+            "deletions": 1
+          },
+          {
+            "filename": "src/web/styles/style.css",
+            "status": "modified",
+            "additions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "full_name": "ambr-tech/Backlog.md",
+        "branch": "main",
+        "status": "diverged",
+        "ahead_by": 49,
+        "behind_by": 4,
+        "merge_base_sha": "7af19f80ada6406fbefcfd95af347c809f544c8b",
+        "total_commits": 49,
         "commits": [
           {
             "sha": "0fba03083c19061e7b90757a20f5b924c7078d79",
@@ -40020,10 +41010,109 @@
             "author_email": "hlt315@gmail.com",
             "message": "Merge pull request #12 from ambr-tech/fix/build-cross-direct-tailwind\n\nbuild-cross の CSS ビルドで Tailwind を直接実行するバッチを追加",
             "date": "2026-05-28T12:31:45Z"
+          },
+          {
+            "sha": "8d23d5264c25c028e275ca2892de7aa9a4c7031b",
+            "short_sha": "8d23d52",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Windows向けのbacklog.exe解放バッチ追加",
+            "date": "2026-06-01T01:51:31Z"
+          },
+          {
+            "sha": "fbbec2ef750109ad73e6daaaad41cb3b6a66337b",
+            "short_sha": "fbbec2e",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #13 from ambr-tech/feature/delete_dist_run_backlog\n\nWindows向けのbacklog.exe解放バッチ追加",
+            "date": "2026-06-01T01:53:58Z"
+          },
+          {
+            "sha": "318525a6811e63036734bf30eb667148b575ea29",
+            "short_sha": "318525a",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "bun run cli --browserを実行するバッチ追加",
+            "date": "2026-06-01T01:56:16Z"
+          },
+          {
+            "sha": "6a9b1f954423e17606e71b9a9717c07d4a56eaeb",
+            "short_sha": "6a9b1f9",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #14 from ambr-tech/feature/bun-run-cli-browser\n\nbun run cli --browserを実行するバッチ追加",
+            "date": "2026-06-01T01:56:53Z"
+          },
+          {
+            "sha": "a3544cf4939d4874a2db4a29d7469b64774c4cdc",
+            "short_sha": "a3544cf",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Rename",
+            "date": "2026-06-01T01:58:06Z"
+          },
+          {
+            "sha": "409f62988ba1223c64d4e629a527bbdc2385ec7e",
+            "short_sha": "409f629",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "chore(scripts): ビルド後にdistをrunへコピーするスクリプト群を追加\n\nintent(scripts): build-cross.bat成功後にdelete→copyを連続実行するバッチが欲しい\ndecision(build-and-copy): deployではなくcopyという命名 — デプロイ処理は含まないため\ndecision(build-and-copy): 各ステップでERRORLEVELを確認し失敗時は即中断する設計",
+            "date": "2026-06-01T02:08:11Z"
+          },
+          {
+            "sha": "96f5258c5c58c88ba6d49fa9da97d87bd12b7581",
+            "short_sha": "96f5258",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #15 from ambr-tech/chore/add_build_copy_scripts\n\nchore(scripts): ビルド後にdistをrunへコピーするスクリプト群を追加",
+            "date": "2026-06-01T02:11:14Z"
+          },
+          {
+            "sha": "739a66d821471fe34e5de10b88c05a7182180954",
+            "short_sha": "739a66d",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "キー入力待ちなしでビルドシーケンスを実行できるように",
+            "date": "2026-06-01T02:30:25Z"
+          },
+          {
+            "sha": "1b29b8af66ce445a881883ef94480f5bd53b2c06",
+            "short_sha": "1b29b8a",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #16 from ambr-tech/feature/build-cross-no-wait\n\nキー入力待ちなしでビルドシーケンスを実行できるように",
+            "date": "2026-06-01T02:30:44Z"
+          },
+          {
+            "sha": "fdd602e8024d37eec93e43e571b64244746f3236",
+            "short_sha": "fdd602e",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "fix(task-url-routing): URL直接アクセス時にタスクモーダルが開かない問題を修正\n\nlearned(react-strict-mode): Strict Mode は useEffect を mount → cleanup → re-mount の順で実行するため、依存配列が変化しなくても同一マウントサイクルで effect が2回発火する\nconstraint(isFirstStateEffectRef): 早期 return パスではクリーンアップ関数が登録されないため、Strict Mode の cleanup 時にフラグがリセットされなかった\ndecision(task-url-routing): state→URL effect と同じ依存配列 [] を持つ専用 useEffect のクリーンアップでリセットする方針を採用\nrejected(task-url-routing): isLoading ガードをstateURLeffectに追加する案 — isLoading が変化しても state→URL effect は再発火しないため、ガードが解除されるタイミングを検知できない\nrejected(task-url-routing): state→URL effect の全 return パスにクリーンアップ関数を追加する案 — 通常の effect 再実行（showModal/editingTask 変化時）にもリセットが走り、モーダル開閉の URL 同期が壊れる\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>",
+            "date": "2026-06-01T03:03:51Z"
+          },
+          {
+            "sha": "7fa0c28f6e26a7994eae4d517ed6f544d81318ac",
+            "short_sha": "7fa0c28",
+            "author_login": "amp-3",
+            "author_name": "amp",
+            "author_email": "hlt315@gmail.com",
+            "message": "Merge pull request #17 from ambr-tech/feature/fix-open-task-page\n\nfix(task-url-routing): URL直接アクセス時にタスクモーダルが開かない問題を修正",
+            "date": "2026-06-01T03:08:14Z"
           }
         ],
-        "total_files": 65,
-        "total_additions": 3953,
+        "total_files": 72,
+        "total_additions": 4085,
         "total_deletions": 47,
         "files": [
           {
@@ -40185,7 +41274,7 @@
           {
             "filename": "custom/src/task-url-routing/TaskUrlSync.tsx",
             "status": "added",
-            "additions": 134,
+            "additions": 140,
             "deletions": 0
           },
           {
@@ -40249,6 +41338,12 @@
             "deletions": 0
           },
           {
+            "filename": "scripts/build-and-copy.bat",
+            "status": "added",
+            "additions": 27,
+            "deletions": 0
+          },
+          {
             "filename": "scripts/build-cross-direct-tailwind.bat",
             "status": "added",
             "additions": 3,
@@ -40261,15 +41356,51 @@
             "deletions": 0
           },
           {
-            "filename": "scripts/build-cross.bat",
+            "filename": "scripts/build-cross-no-wait.bat",
             "status": "added",
             "additions": 3,
             "deletions": 0
           },
           {
+            "filename": "scripts/build-cross.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
             "filename": "scripts/build-cross.ps1",
             "status": "added",
-            "additions": 52,
+            "additions": 57,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/bun-run-cli-browser.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/copy-dist-to-run.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/copy-dist-to-run.ps1",
+            "status": "added",
+            "additions": 13,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/delete-dist-run-backlog.bat",
+            "status": "added",
+            "additions": 4,
+            "deletions": 0
+          },
+          {
+            "filename": "scripts/delete-dist-run-backlog.ps1",
+            "status": "added",
+            "additions": 65,
             "deletions": 0
           },
           {
@@ -85204,7 +86335,7 @@
       }
     ],
     "cluster_group": "a9e119c",
-    "pushed_category": "last-6-months"
+    "pushed_category": "last-year"
   },
   {
     "full_name": "masa2146/Backlog.md",
